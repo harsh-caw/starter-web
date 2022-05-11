@@ -1,5 +1,6 @@
 # Starter Web Repo
 ##This changes should be present in staging area
+Adding a line for rebasing example
 
 This repository is for showing how Git and GitHub work
 
