@@ -1,6 +1,6 @@
 # Starter Web Repo
 ##This changes should be present in staging area
-Adding a line for rebasing example
+Adding a line for rebasing example, more changes from myfeature branch too.
 
 This repository is for showing how Git and GitHub work
 
