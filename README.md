@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 
 ##Copyright
 Added copyright notice
+
+## How to contribute
+Fork this repo
